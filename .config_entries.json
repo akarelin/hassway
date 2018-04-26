@@ -1,0 +1,14 @@
+[
+    {
+        "data": {
+            "bridge_id": "001788FFFE6C39EB",
+            "host": "10.175.6.211",
+            "username": "Eke25xxhJZqHugpUWNa2gqfoTkzvb959NrydmgTO"
+        },
+        "domain": "hue",
+        "entry_id": "49dba7f5264c487ba0f3b0441891e738",
+        "source": "discovery",
+        "title": "Sway",
+        "version": 1
+    }
+]

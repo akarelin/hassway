@@ -1,0 +1,40 @@
+media_player.sway:
+  name:
+  platform: apple_tv
+  unique_id: 397ef0dbd8faa0f0fa2a9bd7748d0c0284e8de8088cf92b0f186241bfad284b0
+remote.sway:
+  name:
+  platform: apple_tv
+  unique_id: 397ef0dbd8faa0f0fa2a9bd7748d0c0284e8de8088cf92b0f186241bfad284b0
+media_player.sway_tv:
+  name:
+  platform: cast
+  unique_id: 57d4e91f-fd94-a9d3-4efc-9cb90451fcda
+media_player.playbar:
+  name:
+  platform: sonos
+  unique_id: RINCON_949F3E67F17301400
+media_player.bathroom:
+  name:
+  platform: sonos
+  unique_id: RINCON_7828CA22A8B001400
+light.corner:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:4f:bf:59-0b
+light.pendant_2:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:51:e0:25-0b
+light.bedroom:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:01:18:1f:39-0b
+light.pendant_3:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:25:92:c1-0b
+light.pendant_1:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:4f:c6:2a-0b

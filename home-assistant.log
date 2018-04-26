@@ -1,0 +1,5 @@
+2018-04-25 20:42:50 WARNING (MainThread) [homeassistant.setup] Setup of config is taking over 10 seconds.
+2018-04-25 20:45:27 WARNING (MainThread) [homeassistant.components.hue] Connected to Hue at 10.175.6.211 but not registered.
+2018-04-25 20:45:27 WARNING (MainThread) [homeassistant.components.hue] Connected to Hue at 10.175.6.211 but not registered.
+2018-04-25 20:50:58 WARNING (MainThread) [homeassistant.components.hue] Connected to Hue at 10.175.6.211 but not registered.
+2018-04-25 20:51:02 WARNING (MainThread) [homeassistant.components.hue] Connected to Hue at 10.175.6.211 but not registered.
